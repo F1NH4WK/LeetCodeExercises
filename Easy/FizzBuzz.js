@@ -11,3 +11,5 @@ const fizzBuzz = (n) => {
 }
 
 console.log(fizzBuzz(5))
+
+// url: https://leetcode.com/problems/fizz-buzz/
